@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Vegad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="banner" width="100%" src="./banner.png">
+<img align="center" alt="banner" width="100%" src="White Minimalist Profile LinkedIn Banner.png">
 <img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vegadjay&label=Profile%20views&color=0e75b6&style=flat" alt="vegadjay" /> </p>
 
