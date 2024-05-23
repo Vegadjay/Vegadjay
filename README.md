@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jay Vegad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="banner" width="100%" src="White Minimalist Profile LinkedIn Banner.png">
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Vegadjay/Vegadjay/assets/143251488/93440f82-65bf-4c65-aad5-a60ecae2ab91)
-">
+<!-- <img align="right" alt="coding" width="400" src="giphy.gif"> -->
+<!-- <br> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vegadjay&label=Profile%20views&color=0e75b6&style=flat" alt="vegadjay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vegadjay" alt="vegadjay" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, Web technology**
 
-- 💬 Ask me about **react,html,css,js,java**
+- 💬 Ask me about **React,Html5,Css,Js,Java**
 
 - 📫 How to reach me **jayvegad10@gmail.com**
 
