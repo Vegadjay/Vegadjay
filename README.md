@@ -1,11 +1,13 @@
 <h1 align="center">Hi <img src = "Hello.png" height="30" width="30">, I'm Jay Vegad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="banner" width="100%" src="White Minimalist Profile LinkedIn Banner.png">
-<img align="right" alt="coding" width="400" src="giphy.gif" style="margin-top: 30px;">
+<img align="right" alt="coding" width="400" src="giphy.gif" style="margin: 30px;">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vegadjay&label=Profile%20views&color=0e75b6&style=flat" alt="vegadjay" /> </p>
-
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vegadjay" alt="vegadjay" /></a> </p>
+
 
 - 🌱 I’m currently learning **Frameworks, Web technology**
 
