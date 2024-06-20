@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jayvegad10@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><br>Connect with me:</br></h3>
 <p align="left">
 <a href="https://twitter.com/jay_vegad_" target="blank"><img align="center" src="Twitter.gif" alt="jay_vegad_" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/jay vegad" target="blank"><img align="center" src="Linkdin.gif" alt="jay vegad" height="40" width="40" /></a>
