@@ -1,11 +1,8 @@
 <h1 align="center">Hi <img src = "Hello.png" height="30" width="30">, I'm Jay Vegad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="banner" width="100%" src="White Minimalist Profile LinkedIn Banner.png">
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/942a39a3-cec4-4348-a666-a4f963585b6a" style="margin: 30px;">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vegadjay&label=Profile%20views&color=0e75b6&style=flat" alt="vegadjay" /> </p>
-<br>
 <br>
 <p align="center">
   <img width="860" src="https://github-profile-trophy.vercel.app/?username=Vegadjay&theme=onedark&row=1&column=7">
@@ -33,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vegadjay&show_icons=true&locale=en&layout=compact" alt="Vegadjay" /></p>
 
 <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vegadjay&theme=tokyonight" /> </p>
+
