@@ -26,8 +26,11 @@
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="Bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="Css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="Html.gif" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="Java.gif" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="JS.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="React.gif" alt="react" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="Bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="Css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="Html.gif" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="Java.gif" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="JS.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="React.gif" alt="react" width="40" height="40"/> </a>
+  <a href="https://github.com/Vegadjay" target="_blank" rel="noreferrer"> <img src="GIt.gif" alt="react" width="80" height="40"/> </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="Vscode.gif" alt="react" width="40" height="40"/> </a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vegadjay&show_icons=true&locale=en&layout=compact" alt="Vegadjay" /></p>
 
 <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vegadjay&theme=tokyonight" /> </p>
-
+<img align="center" src="bottom.gif" alt="bottom" />
