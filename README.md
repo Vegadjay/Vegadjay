@@ -38,11 +38,11 @@
       <br>Tailwind
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="/Html.gif" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="Css.gif" width="48" height="48" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -53,7 +53,7 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="/Bootstrap.gif" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
