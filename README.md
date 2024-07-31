@@ -86,10 +86,17 @@
   </tr>
 </table>
 <br><br>
-
-
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vegadjay&show_icons=true&locale=en&layout=compact" alt="Vegadjay" /></p>
 
-<p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vegadjay&theme=tokyonight" /> </p>
-<img align="center" src="bottom.gif" alt="bottom" />
+# 📊 GitHub Stats:
+<div align="center">
+
+![Vegadjay's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vegadjay&theme=material-palenight&hide_border=false)<br/>
+
+
+<br/>
+<br/>
+
+# Activity:
+
+![Vegadjay's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vegadjay&custom_title=JAY's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
