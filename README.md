@@ -68,12 +68,13 @@
          <img src="https://skillicons.dev/icons?i=nodejs" />
       <br>Nodejs
       </td>
-      <td align="center" width="96">
+      
+  </tr>
+  <tr>
+    <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=mongodb" />
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=mysql" />
       <br>SQL
