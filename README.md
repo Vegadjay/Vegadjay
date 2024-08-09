@@ -17,10 +17,9 @@
 
 <h3 align="left"><br>Connect with me:</br></h3>
 <p align="left">
-<a href="https://twitter.com/jay_vegad_" target="blank"><img align="center" src="Twitter.gif" alt="jay_vegad_" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/jay vegad" target="blank"><img align="center" src="Linkdin.gif" alt="jay vegad" height="40" width="40" /></a>
-<a href="https://instagram.com/jay_vegad_1" target="blank"><img align="center" src="Insta.gif" alt="jay_vegad_1" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/jay_vegad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay_vegad" height="30" width="40" /></a>
+<a href="https://twitter.com/jay_vegad_" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/jay vegad" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/jay_vegad_1" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 <br>
 
@@ -30,55 +29,84 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+       <img src="https://skillicons.dev/icons?i=react" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=typescript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" />
+      <br>JavaScript
     </td>
     <td align="center"  width="96">
-        <img src="/Html.gif" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="Css.gif" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" />
       <br>CSS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
     <td align="center"  width="96">
-        <img src="/Bootstrap.gif" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=vite" />
+      <br>Vite
+    </td>
+     <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=materialui" />
+      <br>Material Ui
+    </td>
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=nodejs" />
       <br>Nodejs
       </td>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=mongodb" />
+      <br>MongoDB
+    </td>
   </tr>
   <tr>
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=mysql" />
+      <br>SQL
+    </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"  />
+         <img src="https://skillicons.dev/icons?i=github" />
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+         <img src="https://skillicons.dev/icons?i=git" />
       <br>Git
     </td>
-            <td align="center" width="96">
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=java" />
+      <br>Java
+      </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=ai" />
+      <br>AI
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" />
+      <br>linux
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=windows" />
+      <br>windows
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=svg" />
+      <br>SVG
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
