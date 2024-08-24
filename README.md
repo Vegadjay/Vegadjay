@@ -68,7 +68,3 @@
 ---
 
 <h3 align="center">💖 Thank you for visiting my profile! 🙏</h3>
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</p>
