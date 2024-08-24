@@ -52,10 +52,10 @@
 </details>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegadjay&theme=tokyonight&v=1" alt="vegadjay" />
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegadjay&theme=tokyonight&border=0" alt="vegadjay" />
 </p>
+
+
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
