@@ -45,7 +45,6 @@
   <summary>📊 GitHub Stats</summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vegadjay&show_icons=true&theme=radical" alt="vegadjay's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegadjay&layout=compact&theme=radical" alt="Top Languages" />
   </p>
 </details>
 
