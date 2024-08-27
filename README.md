@@ -52,7 +52,7 @@
 </details>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegadjay&background=0D1117&border=1F6FEB&stroke=1F6FEB&ring=3EEAFF&fire=3EEAFF&currStreakNum=FFA500&sideNums=3EEAFF&currStreakLabel=FFA500&sideLabels=3EEAFF&dates=8B949E&date_format=M%20j%5B%2C%20Y%5D&end=20240826&hide_border=true&theme=transparent&hide_total_contributions=false&hide_longest_streak=false&card_width=500" alt="vegadjay's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegadjay&theme=tokyonight" alt="vegadjay" />
 </p>
 
 <h3 align="center">📈 Contribution Graph</h3>
