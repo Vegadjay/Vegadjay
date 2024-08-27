@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://www.linkedin.com/in/vegadjay/">
     <img src="https://github-profile-trophy.vercel.app/?username=vegadjay&theme=onedark&no-frame=true&margin-w=12&margin-h=15&column=7&exclude=Reviews" alt="vegadjay" />
   </a>
 </p>
