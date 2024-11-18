@@ -88,4 +88,5 @@
 ---
 <h3 align="center">💖 Thank you for visiting my profile! 🙏</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+
