@@ -15,6 +15,15 @@
   <img src="https://img.shields.io/github/followers/vegadjay?label=Followers&style=social" alt="followers" />
 </p>
 
+
+<p align="center">
+  <a href="https://portfolio-1-sigma-three.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Visit My Portfolio">
+  </a>
+</p>
+
+
+
 <details>
   <summary>🚀 About Me</summary>
   <ul>
