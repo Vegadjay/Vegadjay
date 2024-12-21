@@ -28,8 +28,8 @@ const jay = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java"],
   currentFocus: "Building innovative web experiences",
   dailyRoutine: {
-    "☀️ Morning": ["Code", "Learning"],
-    "🌆 Afternoon": ["Project Development", "Problem Solving"],
+    "☀️ Morning": ["College", "Learning"],
+    "🌆 Afternoon": ["Coding", "Project Development"],
     "🌙 Evening": ["Open Source", "Tech Research"]
   },
   challenge: "Currently mastering advanced animation techniques in React",
