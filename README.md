@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-1-sigma-three.vercel.app">
+  <a href="https://personal-portfolio-theta-tawny.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
