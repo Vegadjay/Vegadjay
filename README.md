@@ -1,6 +1,6 @@
 [![Social banner of Jay Vegad](/Imgs/Banner.gif)](https://jayvegad.vercel.app)
 
-<h1 align='center'>Hello, World! 👋</h1>
+<h1 align='center'><code>Hello World!</code></h1>
 
 <p align='center'>I'm <b>Jay</b> — passionate developer and creative thinker.</p>
 
