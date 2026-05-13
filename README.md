@@ -1,27 +1,39 @@
-[![Social banner of Jay Vegad](/Imgs/Banner.gif)](https://jayvegad.vercel.app)
+# Hi, I'm Jay 👋
 
-<h1 align='center'><code>Hello World!</code></h1>
+[![Banner](./banner/banner.png)](https://jayvegad.vercel.app)
 
-<p align='center'>I'm <b>Jay</b> — passionate developer and creative thinker.</p>
+<br />
 
-<p align='center'>
-  <strong>💻 Full-Stack Developer | ✨ UI/UX Enthusiast | 🚀 Problem Solver</strong>
-</p>
+<a href="https://twitter.com/JAY_VEGAD_" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/JAY_VEGAD_?style=social" alt="Twitter">
+</a>
+<a href="https://linkedin.com/in/vegadjay" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://jayvegad.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://drive.google.com/file/d/1skZZy9yegBc8D9cmpRmjILsLA6s7PLfU/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume">
+</a>
 
-<p align='center'>
-  I love turning ideas into elegant solutions through code. Always learning, always building.
-</p>
+<br />
+<br />
 
-<h3 align='center'>Let's Connect</h3>
-<p align='center'>
-  📧 <a href="mailto:jayvegad10@gmail.com">jayvegad10@gmail.com</a> • 
-  🐦 <a href="https://twitter.com/JAY_VEGAD_">Twitter</a> • 
-  💼 <a href="https://www.linkedin.com/in/vegadjay/">LinkedIn</a> •
-  🌐 <a href="https://jayvegad.vercel.app">Portfolio</a>
-</p>
+Fullstack Software Engineer from India 🇮🇳
 
-<p align='center'>
-  "Crafting digital experiences that make a difference."
-</p>
+I build modern web applications, scalable backend systems, and clean user experiences, focused on React, Next.js, TypeScript, Node.js, cloud infrastructure, and DevOps.
 
-<h2 align='center'><i>Stay curious. Stay awesome!</i></h2>
+Currently exploring automation, performance, and products that provide real value.
+
+### Around the web 🌎
+
+- <a href="https://jayvegad.vercel.app">Portfolio</a>
+- <a href="https://linkedin.com/in/vegadjay">LinkedIn</a>
+- <a href="https://twitter.com/JAY_VEGAD_">Twitter</a>
+- <a href="https://github.com/Vegadjay">GitHub</a>
+- <a href="https://drive.google.com/">Resume</a>
+
+<br />
+
+> Building clean, scalable, and meaningful digital experiences.
