@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/vegadjay" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://jayvegad.vercel.app" target="_blank">
+<a href="https://jayvegad.tech" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://drive.google.com/file/d/1skZZy9yegBc8D9cmpRmjILsLA6s7PLfU/view?usp=sharing" target="_blank">
